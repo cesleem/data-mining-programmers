@@ -4,7 +4,7 @@
 #  Code file for the book Programmer's Guide to Data Mining
 #  http://guidetodatamining.com
 #  Ron Zacharski
-#
+
 
 from math import sqrt
 
